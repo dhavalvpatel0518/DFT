@@ -1,0 +1,62 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/dvpat/Google Drive/Classes/2018 Spring/ECE 4122/P2/P2/Complex.cc
+iostream
+-
+string
+-
+math.h
+-
+Complex.h
+C:/Users/dvpat/Google Drive/Classes/2018 Spring/ECE 4122/P2/P2/Complex.h
+
+C:/Users/dvpat/Google Drive/Classes/2018 Spring/ECE 4122/P2/P2/Complex.h
+iostream
+-
+string
+-
+
+C:/Users/dvpat/Google Drive/Classes/2018 Spring/ECE 4122/P2/P2/InputImage.cc
+iostream
+-
+fstream
+-
+sstream
+-
+stdlib.h
+-
+InputImage.h
+C:/Users/dvpat/Google Drive/Classes/2018 Spring/ECE 4122/P2/P2/InputImage.h
+Complex.h
+C:/Users/dvpat/Google Drive/Classes/2018 Spring/ECE 4122/P2/P2/Complex.h
+
+C:/Users/dvpat/Google Drive/Classes/2018 Spring/ECE 4122/P2/P2/InputImage.h
+fstream
+-
+
+C:/Users/dvpat/Google Drive/Classes/2018 Spring/ECE 4122/P2/P2/fft2d.cc
+iostream
+-
+fstream
+-
+sstream
+-
+string
+-
+vector
+-
+thread
+-
+cmath
+-
+Complex.h
+C:/Users/dvpat/Google Drive/Classes/2018 Spring/ECE 4122/P2/P2/Complex.h
+InputImage.h
+C:/Users/dvpat/Google Drive/Classes/2018 Spring/ECE 4122/P2/P2/InputImage.h
+
